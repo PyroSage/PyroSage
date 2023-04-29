@@ -1,4 +1,4 @@
-##Hi, I am PyroSage(Bhaskar Biswas)
+Hi, I am PyroSage(Bhaskar Biswas)
 Welcome to my Github profile! I am an undergraduate pursuing engineering physics at IIT Bombay and an intermediate programmer in Python, Java, C and C++. I also have knowledge of Linux and GitHub.
 
 Currently, I am a Driverless Trainee in IIT Bombay Racing Team, where I am working on autonomous vehicle technology. In my spare time, I enjoy working on personal programming projects, such as making a flappy bird game in Unreal and a line-follower bot in Arduino.
